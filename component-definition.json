@@ -139,8 +139,7 @@
                                 "template": {
                                     "name": "SimpleMarquee",
                                     "model": "simpleMarquee",
-                                    "marqueeText": "Kick the ball instead of the players",
-                                    "classes": "bg-red"
+                                    "marqueeText": "Kick the ball instead of the players"
                                 }
                             }
                         }
