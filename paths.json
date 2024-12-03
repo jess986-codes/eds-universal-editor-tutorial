@@ -1,10 +1,5 @@
 {
   "mappings": [
-    "/content/jess-test-site/:/",
-    "/content/jess-test-site/configuration:/.helix/config.json",
-    "/content/jess-test-site/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/jess-test-site/"
+    "/content/jess-test-site/:/"
   ]
 }
